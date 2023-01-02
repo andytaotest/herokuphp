@@ -1,0 +1,14 @@
+{
+    "name": "vendor_name/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Andy Tao",
+        "email": "andy_tao@rp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
